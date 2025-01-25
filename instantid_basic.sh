@@ -24,7 +24,7 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/LuizWr2/Jana_7b/resolve/main/albedobaseXL_v21.safetensors"
+    
 )
 
 UNET_MODELS=(
